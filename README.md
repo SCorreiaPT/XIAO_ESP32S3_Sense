@@ -11,7 +11,7 @@
 **RF** - Support 2.4GHz Wi-Fi and BLE dual wireless communication, support 100m+ remote communication when connected with U.FL antenna
 
 ## Where to Buy
-[See Studio](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
+[Seed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
 
 ## Documents
 [OV2640 Camera Datasheet](https://github.com/SCorreiaPT/XIAO_ESP32S3_Sense/blob/main/Documents/OV2640-datasheet.pdf)

@@ -16,5 +16,6 @@
 
 [ESP32-S3 Datasheet](https://github.com/SCorreiaPT/XIAO_ESP32S3_Sense/blob/main/Documents/esp32-s3_datasheet.pdf)
 
+[TinyML Case Studies](https://github.com/SCorreiaPT/XIAO_ESP32S3_Sense/blob/main/Documents/TinyML-Case-Studies.pdf)
 
 ## Related Papers

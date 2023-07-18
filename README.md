@@ -15,7 +15,7 @@
 ## Pinout
 
 <p align="center">
-  <img src="./img/pinout.png" alt="Size Limit CLI" width="480">
+  <img src="./img/pinout.png" alt="Size Limit CLI" width="1200">
 </p>
 
 ## Where to Buy

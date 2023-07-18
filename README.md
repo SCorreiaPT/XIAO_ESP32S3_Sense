@@ -20,4 +20,4 @@
 
 ## Related Papers
 
-Matos-Carvalho, J. P., Correia, S. D., & Tomic, S. (2023, March). Sensitivity analysis of LSTM networks for fall detection wearable sensors. In 2023 6th Conference on Cloud and Internet of Things (CIoT) (pp. 112-118). IEEE.[paper](https://doi.org/10.1109/CIoT57267.2023.10084906)
+Matos-Carvalho, J. P., Correia, S. D., & Tomic, S. (2023, March). Sensitivity analysis of LSTM networks for fall detection wearable sensors. In 2023 6th Conference on Cloud and Internet of Things (CIoT) (pp. 112-118). IEEE. ([paper](https://doi.org/10.1109/CIoT57267.2023.10084906))

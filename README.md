@@ -1,4 +1,4 @@
-<img src="https://github.com/SCorreiaPT/XIAO_ESP32S3_Sense/blob/main/img/xiao-esp32s3-sense.jpg" align="right" width="150"/>
+<img src="./img/xiao-esp32s3-sense.jpg" align="right" width="150"/>
 
 # XIAO ESP32S3 Sense
 > XIAO ESP32S3 Sense Tools and Examples
@@ -15,7 +15,7 @@
 ## Pinout
 
 <p align="center">
-  <img src="./img/pinout.png" alt="Size Limit CLI" width="738">
+  <img src="./img/pinout.png" alt="Size Limit CLI" width="480">
 </p>
 
 ## Where to Buy

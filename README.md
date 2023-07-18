@@ -15,6 +15,10 @@
 ## Pinout
 
 <p align="center">
+  <img src="./img/overview.png" alt="Size Limit CLI" width="1200">
+</p>
+
+<p align="center">
   <img src="./img/pinout.png" alt="Size Limit CLI" width="1200">
 </p>
 

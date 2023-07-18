@@ -12,6 +12,12 @@
 
 **RF** - Support 2.4GHz Wi-Fi and BLE dual wireless communication, support 100m+ remote communication when connected with U.FL antenna
 
+## Pinout
+
+<p align="center">
+  <img src="./img/pinout.png" alt="Size Limit CLI" width="738">
+</p>
+
 ## Where to Buy
 [Seed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
 
